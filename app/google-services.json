@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172445815418",
+    "project_id": "todowithfb-1a63b",
+    "storage_bucket": "todowithfb-1a63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172445815418:android:d8144403f5185d9037a1c3",
+        "android_client_info": {
+          "package_name": "com.example.to_do_with_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172445815418-76h049dbdvqkf545ib53lrto8iv8t4io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnC0v_yhDgn5By62WMO-zRgEZCfbi_70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172445815418-76h049dbdvqkf545ib53lrto8iv8t4io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
